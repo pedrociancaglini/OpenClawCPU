@@ -849,5 +849,5 @@ openclaw logs --follow | grep -i "queue\|enqueue\|lane"
 
 ---
 
-*Guía creada para Peter — Mac Mini Mid 2011, Buenos Aires, Argentina*  
+*Guía creada por Peter — Mac Mini Mid 2011, Buenos Aires, Argentina*  
 *Fecha: Abril 2026*
